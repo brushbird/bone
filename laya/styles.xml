@@ -1,0 +1,18 @@
+<res>
+   <item name="test/img_000000.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=10,10,10,10" picType="0" scale="0"/>
+   <item name="test/img_ffffff.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=10,10,10,10" picType="0" scale="0"/>
+   <item name="img/img_circle_white.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=10,0,11,0" picType="0" scale="0"/>
+   <item name="img/img_circle2.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=0,133,0,128" picType="0" scale="0"/>
+   <item name="img/img_rect.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=53,22,25,18" picType="0" scale="0"/>
+   <item name="img/img_box_bg.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=21,24,17,21" picType="0" scale="0"/>
+   <item name="test/img_blue.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=15,15,15,15" picType="0" scale="0"/>
+   <item name="loading" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="test/img_yellow.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=15,15,15,15" picType="0" scale="0"/>
+   <item name="img/img_circle4.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=231,240,237,231" picType="0" scale="0"/>
+   <item name="dragonbone" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="img/img_cal_bg.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=101,111,0,95" picType="0" scale="0"/>
+   <item name="img/img_last_bar.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=0,20,0,22" picType="0" scale="0"/>
+   <item name="img/img_bubble2.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=14,17,24,10" picType="0" scale="0"/>
+   <item name="test/mask_circle.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="last/img_border.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=74,92,80,86" picType="0" scale="0"/>
+</res>
